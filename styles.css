@@ -3,11 +3,11 @@ body {
   text-align: center;
 }
 h1 {
+	fontL: 32px/34px, system-ui;
 	color: black;
-	font-family: system-ui, sans-serif;
-	font-size: 500%;
 	font-style: bold;
 }
+
 
 
 
