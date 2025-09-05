@@ -1,0 +1,10 @@
+body {
+  background-color: powderblue;
+  text-align: center;
+}
+h1 {
+  font-size: 100%;
+	font: Bahnschrift;
+	vertical-align: baseline;
+  color: blue;
+}
