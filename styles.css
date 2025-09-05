@@ -4,10 +4,11 @@ body {
 }
 h1 {
 	color: black;
-	font-family: Trebuchet MS, sans-serif;
+	font-family: system-ui, sans-serif;
 	font-size: 500%;
 	font-style: bold;
 }
+
 
 
 
