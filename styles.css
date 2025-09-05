@@ -4,9 +4,11 @@ body {
 }
 h1 {
 	color: black;
-	font-family: "Bahnschrift", sans-serif;
+	font-family: Trebuchet MS, sans-serif;
 	font-size: 500%;
+	font-style: bold;
 }
+
 
 
 
