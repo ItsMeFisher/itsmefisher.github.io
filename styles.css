@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(#479dff, #9198e5);
+  background: linear-gradient(#9198e5, #479dff);
   text-align: center;
 }
 h1 {
@@ -13,3 +13,4 @@ h1 {
 	font: bold 20px/22px sans-serif;
 	color: black;
 }
+
