@@ -14,7 +14,7 @@ h1 {
 	color: black;
 }
 
-.line1, .line2 {
+.line {
 	display: block;
 }
 
@@ -35,6 +35,7 @@ h1 {
 	color: black;
 	text-align: center;
 }
+
 
 
 
