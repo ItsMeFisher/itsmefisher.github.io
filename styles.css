@@ -1,5 +1,5 @@
 body {
-  background-color: powderblue;
+  background: linear-gradient(#479dff, #9198e5);
   text-align: center;
 }
 h1 {
@@ -7,3 +7,4 @@ h1 {
 	font: bold 50px/52px sans-serif;
 	color: black;
 }
+
