@@ -8,16 +8,12 @@ h1 {
 	color: black;
 }
 
-.links1 {
+.links {
 	margin-top: 30px;
 	font: bold 20px/22px sans-serif;
 	color: black;
-	display: inline-block;
 }
 
-.links2 {
-	margin-top: 30px;
-	font: bold 20px/22px sans-serif;
-	color: black;
+.line1, .line2{
 	display: inline-block;
 }
